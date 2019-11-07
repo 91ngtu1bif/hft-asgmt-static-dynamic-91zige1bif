@@ -1,7 +1,7 @@
 {
   "name": "hft-asgmt-static-dynamic",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-USERNAME)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,7 +15,10 @@
       "^.+\\.js?$": "babel-jest"
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.5.4",
     "@babel/plugin-transform-regenerator": "^7.4.5",
@@ -25,5 +28,16 @@
     "babel-jest": "^24.8.0",
     "jest": "^24.8.0",
     "puppeteer": "^2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hft-stuttgart-ipr/hft-asgmt-static-dynamic-91zige1bif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hft-stuttgart-ipr/hft-asgmt-static-dynamic-91zige1bif/issues"
+  },
+  "homepage": "https://github.com/hft-stuttgart-ipr/hft-asgmt-static-dynamic-91zige1bif#readme"
 }

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-USERNAME)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-91zige1bif.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-static-dynamic-91zige1bif)
 
 # hft-asgmt-static-dynamic
 
